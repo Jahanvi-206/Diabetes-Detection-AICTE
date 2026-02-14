@@ -9,7 +9,9 @@ A Machine Learning project designed to assist in the early detection of diabetes
 Key Features:
 
 Data Cleaning: Handles missing values to ensure high data quality.
+
 Predictive Model: Uses Random Forest for accurate and reliable risk assessment.
+
 Interactive Tool: Command-line interface for instant patient diagnosis.
 
 Tech Stack:
