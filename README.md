@@ -15,5 +15,7 @@ Interactive Tool: Command-line interface for instant patient diagnosis.
 Tech Stack:
 
 Language: Python
-Libraries: Pandas, Scikit-Learn, NumPy
+
+Libraries: Pandas, Scikit-Learn, NumPy, Matplotlib & Seaborn
+
 Environment: Google Colab
